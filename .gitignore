@@ -1,2 +1,6 @@
 
 /venv
+/build
+dist/installer_updater.exe
+*.spec
+launcher_win.py
